@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/junit-4.9.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://kentbeck.github.com/junit/javadoc/latest/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.commands_3.6.1.v20120521-2329.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.runtime_3.8.0.v20120521-2346.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.common_3.6.100.v20120522-1841.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jface_3.8.0.v20120521-2329.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://help.eclipse.org/juno/topic/org.eclipse.platform.doc.isv/reference/api"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://commons.apache.org/io/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/swt-debug.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://help.eclipse.org/juno/topic/org.eclipse.platform.doc.isv/reference/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/swt.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://help.eclipse.org/juno/topic/org.eclipse.platform.doc.isv/reference/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
